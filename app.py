@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)  # 启用 CORS，允许所有来源的请求
 # 配置数据库连接池
 dbconfig = {
-    "host": "123.57.246.2176",
+    "host": "123.57.246.217",
     "user": "shenmi",
     "password": "FiEyF3AKRKBKtm7y",
     "database": "shenmi"
